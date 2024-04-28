@@ -1,0 +1,2 @@
+# MagazinOnline
+ API REST MagazinOnline
